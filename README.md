@@ -16,13 +16,12 @@ Soy estudiante de **Ciencias de la Computación** con una mentalidad orientada a
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caucota.melaniyohana@gmail.com)
 
 ---
-
 ## 🛠️ My Tech Stack
 
 <table>
   <tbody>
     <tr>
-      <td colspan="4" align="center"><b>Ciencia de Datos</b></td>
+      <td colspan="4" align="center"><b>Ciencia de Datos & Análisis</b></td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -38,12 +37,12 @@ Soy estudiante de **Ciencias de la Computación** con una mentalidad orientada a
         <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">
       </td>
       <td width="25%" align="center">
-        <span>Django (MTV)</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/django-icon.svg">
+        <span>Google Colab</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/google-colab.svg">
       </td>
     </tr>
     <tr>
-      <td colspan="4" align="center"><b>Visualización</b></td>
+      <td colspan="4" align="center"><b>Visualización & BI</b></td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -59,8 +58,6 @@ Soy estudiante de **Ciencias de la Computación** con una mentalidad orientada a
         <img height="64px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
       </td>
       <td width="25%" align="center">
-        <span>Google Colab</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/google-colab.svg">
       </td>
     </tr>
     <tr>
@@ -68,16 +65,16 @@ Soy estudiante de **Ciencias de la Computación** con una mentalidad orientada a
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
+        <span>Django (MTV)</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/django-icon.svg">
+      </td>
+      <td width="25%" align="center">
         <span>HTML5 & CSS3</span><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/html-5.svg">
         <img height="48px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span>Git</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>GitHub</span><br><br>
+        <span>Git & GitHub</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
       </td>
       <td width="25%" align="center">
@@ -102,7 +99,7 @@ Soy estudiante de **Ciencias de la Computación** con una mentalidad orientada a
         <img height="64px" src="https://cdn.svgporn.com/logos/canva.svg">
       </td>
       <td width="25%" align="center">
-        </td>
+      </td>
     </tr>
   </tbody>
 </table>
