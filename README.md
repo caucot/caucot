@@ -103,3 +103,14 @@ Soy estudiante de **Ciencias de la Computación** con una mentalidad orientada a
     </tr>
   </tbody>
 </table>
+
+---
+## 📈 Mis Estadísticas de GitHub
+
+<p align="center">
+<a href="https://github.com/caucot">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=caucot&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caucot&layout=compact&langs_count=8&theme=radical&hide_border=true&hide_title=false"/>
+</a>
+</p>
+
