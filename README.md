@@ -2,12 +2,12 @@
 
 ### 🚀 Analista de Datos & Desarrolladora Web  en formación
 
-Soy estudiante de **Ciencias de la Computación** con una mentalidad orientada a crear soluciones integrales. Mi enfoque combina la robustez del desarrollo backend con **Django** y el poder de la **Ciencia de Datos** para transformar información compleja en decisiones estratégicas.
+Soy estudiante de Ciencias de la Computación  con una mentalidad orientada a crear soluciones integrales. Mi enfoque combina el desarrollo backend con Django y el poder de la Ciencia de Datos para transformar información en decisiones estratégicas.
 
-- 🛠️ **Perfil Híbrido:** Desarrollo aplicaciones bajo arquitectura **MTV** y proceso datos utilizando el ecosistema de **Python** (Pandas, Scikit-Learn).
-- 🎨 **Diseño con Propósito:** Integro herramientas como Figma e Illustrator para que mis soluciones técnicas sean funcionales y visualmente efectivas.
-- 🤝 **Colaboración:** Utilizo **Git y GitHub** para flujos de trabajo en equipo y control de versiones.
-- 🌱 **En constante evolución:** Explorando nuevas formas de integrar modelos de análisis en entornos de software escalables.
+- 🛠️ **Perfil Híbrido:** Desarrollo aplicaciones bajo arquitectura MTV y analizo datos con el ecosistema de Python (Pandas, Scikit-Learn) y Power BI.
+- 🎨 **Diseño con Propósito:** Utilizo Figma e Illustrator para crear prototipos funcionales y visualmente efectivos.
+- 🤝 **Colaboración:** Uso de Git y GitHub para control de versiones y flujos de trabajo colaborativos.
+- 🌱 **En constante evolución:** Interesada en la creación de soluciones tecnológicas que integren el análisis de datos para generar valor social y productivo
 
 ---
 
