@@ -11,11 +11,25 @@ Soy estudiante de Ciencias de la Computación  con una mentalidad orientada a cr
 
 ---
 
+
+---
+
 ### 📫 Conectemos:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-caucota-1907a3266/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caucota.melaniyohana@gmail.com)
 
 ---
+
+### 👥 Comunidad & Colaboración
+
+Soy miembro activo de **[Inteligencia Fueguina](https://inteligencia-fueguina.vercel.app/#inicio)**, un espacio donde estudiantes y profesionales de Ciencias de la Computación nos reunimos para:
+
+* **Aprender haciendo:** Desarrollamos proyectos de código abierto para poner en práctica conocimientos teóricos.
+* **Mentoría técnica:** Compartimos recursos y mejores prácticas sobre desarrollo y análisis de datos.
+* **Networking:** Fomentamos la cultura de aprendizaje autodidacta y el crecimiento profesional en equipo.
+
+---
+
 ## 🛠️ My Tech Stack
 
 <table>
