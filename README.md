@@ -11,9 +11,6 @@ Soy estudiante de Ciencias de la Computación  con una mentalidad orientada a cr
 
 ---
 
-
----
-
 ### 📫 Conectemos:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-caucota-1907a3266/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caucota.melaniyohana@gmail.com)
