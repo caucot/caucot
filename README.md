@@ -9,11 +9,13 @@ Soy estudiante de Ciencias de la Computación  con una mentalidad orientada a cr
 - 🤝 **Colaboración:** Uso de Git y GitHub para control de versiones y flujos de trabajo colaborativos.
 - 🌱 **En constante evolución:** Interesada en la creación de soluciones tecnológicas que integren el análisis de datos para generar valor social y productivo
 
+
 ---
 
 ### 📫 Conectemos:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-caucota-1907a3266/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caucota.melaniyohana@gmail.com)
+
 
 ---
 
@@ -24,6 +26,9 @@ Soy miembro activo de **[Inteligencia Fueguina](https://inteligencia-fueguina.ve
 * **Aprender haciendo:** Desarrollamos proyectos de código abierto para poner en práctica conocimientos teóricos.
 * **Mentoría técnica:** Compartimos recursos y mejores prácticas sobre desarrollo y análisis de datos.
 * **Networking:** Fomentamos la cultura de aprendizaje autodidacta y el crecimiento profesional en equipo.
+
+[![Inteligencia Fueguina](https://img.shields.io/badge/Comunidad-Inteligencia_Fueguina-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/InteligenciaFueguina)
+
 
 ---
 
