@@ -121,6 +121,31 @@ Soy miembro activo de **[Inteligencia Fueguina](https://inteligencia-fueguina.ve
 </table>
 
 ---
+
+## 📂 Proyectos Destacados
+
+### 📊 Ciencia de Datos & Machine Learning
+
+**[Predicción de Hechos Delictivos - TDF](https://github.com/caucot/hechos-delictivios-tdf):** Modelo de ML para clasificar el nivel delictivo mensual según variables demográficas. Realizado de forma individual para la materia de Aprendizaje Supervisado.
+- **Rol:** Desarrolladora Individual (Entrega final - Aprendizaje Supervisado).
+- **Logros:** Identificación de variables críticas e implementación de técnicas de clasificación supervisada.
+- **Stack:** Python, Anaconda, Scikit-Learn, Jupyter Notebooks, Pandas.
+    
+**[Análisis de Población CABA - Ingenias](https://github.com/caucot/Entrega-Final-Ingenias):** Estudio de patrones socio-sanitarios y económicos basado en encuestas anuales de hogares. Trabajo colaborativo centrado en la toma de decisiones estratégicas.
+- **Rol:** Colaboradora en equipo (Análisis y Modelado).
+- **Logros:** Segmentación de patrones socio-económicos y análisis de probabilidad de uso de sistemas de salud.
+- **Stack:** Python, Anaconda, Scikit-Learn, Jupyter Notebooks, Pandas.
+
+### 💻 Desarrollo Web Fullstack
+
+**[E-commerce / Sistema de Gestión (Alkemy)](https://github.com/alkemyTech/CFITDF-Django-W2-Back-S1):** Aplicación integral desarrollada bajo el programa de formación de Alkemy y la Agencia de Innovación de Tierra del Fuego.
+- **Rol:** Desarrolladora Fullstack (Equipo de 2 integrantes).
+- **Contribución:** Participé activamente tanto en la arquitectura del Backend como en la implementación de la interfaz de usuario.
+- **Tecnologías:** Django (MTV), Python, Git.
+- **Repos:** [Backend](https://github.com/alkemyTech/CFITDF-Django-W2-Back-S1) | [Frontend](https://github.com/alkemyTech/CFITDF-Django-W2-Front-S1)
+
+
+---
 ## 📈 Mis Estadísticas de GitHub
 
 <p align="center">
